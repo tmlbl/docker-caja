@@ -1,4 +1,4 @@
-FROM debian:stretch
+FROM ubuntu:zesty
 
 WORKDIR /opt
 
